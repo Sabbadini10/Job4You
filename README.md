@@ -1,4 +1,4 @@
-![Job4You Logo](images/logo.png)
+![Job4You Logo](images/Logo2.png)
 # Job4You  
 AI-powered ATS-Optimized Resume, Cover Letter & Email Generator
 
